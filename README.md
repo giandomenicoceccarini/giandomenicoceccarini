@@ -1,4 +1,4 @@
 - 👋 Hi, I’m [@giandomenicoceccarini](https://www.linkedin.com/in/gdceccarini/)
 - 👀 I’m interested in Data Science and Machine Learning
-- 💻 I have background on computer science and I currently work as a data scientist analyzing Electric Car data
+- 💻 I have background on computer science and I currently work as a data scientist analyzing electric car (EV) data
 - ⚙️ Python, Pandas, Sklearn, Tensorflow, Plotly, ...
