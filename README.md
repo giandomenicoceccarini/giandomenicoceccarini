@@ -11,7 +11,6 @@
 <div align="center">
 
 # Gian Domenico Ceccarini
-**Senior Data Scientist**
 
 📍 Perugia, Italy · gdceccarini@gmail.com
 
