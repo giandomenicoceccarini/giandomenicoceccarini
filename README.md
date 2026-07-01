@@ -31,4 +31,4 @@
 ## Minimal stats
 ```text
 Work exp: 7+ years
-Focus: ML, pipelines, data visualizations
+Focus: Marketing Science, Causal Inference, Machine Learning, Econometrics, Data Visualizations
