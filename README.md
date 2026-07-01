@@ -24,7 +24,7 @@
 
 
 ## Education
-- MSc (ongoing) — Computer Sciencel (Artificial Intelligence), Università degli Studi di Perugia  
+- MSc (ongoing) — Computer Science (Artificial Intelligence), Università degli Studi di Perugia  
 - BSc — Computer Science, Università degli Studi di Perugia
 
 
